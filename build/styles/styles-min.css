@@ -8,8 +8,6 @@
   --cursive-font: "Cookie", cursive;
   --mono-font: "Inconsolata", monospace;
 }
-
-.nav-link.active {
-  background-color: var(--accent-green);
-  color: #fff;
+.shadow-xl {
+  box-shadow: 50px 50px 100px rgba(0, 0, 0, 0.3);
 }
