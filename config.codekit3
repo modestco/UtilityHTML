@@ -264,6 +264,19 @@
       "ou" : "lpckwebp-none",
       "rq" : 75
     },
+    "\/img\/shecodes-logo.png" : {
+      "ft" : 32768,
+      "iS" : 15204,
+      "oA" : 0,
+      "oAP" : "\/build\/img\/shecodes-logo.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
     "\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
