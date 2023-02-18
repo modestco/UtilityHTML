@@ -11,3 +11,7 @@
 .shadow-xl {
   box-shadow: 50px 50px 100px rgba(0, 0, 0, 0.3);
 }
+
+.navbar-logo {
+  width: 100px;
+}
