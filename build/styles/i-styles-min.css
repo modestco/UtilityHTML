@@ -1,39 +1,43 @@
 :root {
   --fa-primary-color: #171539;
-  --fa-secondary-color: #c9974e;
+  --fa-secondary-color: #6a7b73;
 }
 
-.md-blue {
+.background-modest-blue {
   color: #171539;
 }
-.md-gold {
+.background-modest-gold {
   color: #c9974e;
 }
-.md-green {
+.background-modest-green {
   color: #6a7b73;
 }
-.md-pink {
+.background-modest-pink {
   color: #bd7877;
 }
-.md-grey {
-  color: #171539;
+.background-modest-grey {
+  color: #e1dddb;
 }
-.md-sans {
+
+.modest-sans {
   font-family: "hanken grotesk", sans-serif;
 }
-.md-serif {
+.modest-serif {
   font-family: "playfair display", serif;
 }
-.md-cursive {
+.modest-cursive {
   font-family: "cookie", cursive;
 }
-.md-mono {
+.modest-mono {
   font-family: "inconsolata", monospace;
 }
-.md-shadow {
+.modest-shadow {
   box-shadow: 0px 15px 43px 10px rgba(0, 0, 0, 0.2);
 }
-.md-border {
+.modest-border {
   border: 3px solid rgba(23, 21, 57, 0.5);
   border-radius: 20px;
+}
+.fa-canadian-maple-leaf {
+  width: 100px;
 }
