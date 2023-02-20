@@ -194,26 +194,6 @@
       "ou" : "lpckwebp-none",
       "rq" : 75
     },
-    "\/img\/few-clouds-day.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/build\/img\/few-clouds-day.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/img\/hashtag colorful.gif" : {
-      "ft" : 4194304,
-      "iS" : 35204,
-      "oA" : 0,
-      "oAP" : "\/build\/img\/hashtag colorful.gif",
-      "oF" : 0,
-      "opt" : 1,
-      "ou" : "lpckwebp-none",
-      "rq" : 75
-    },
     "\/img\/Jen.md.co.svg" : {
       "ft" : 2097152,
       "miP" : 0,
@@ -264,11 +244,54 @@
       "ou" : "lpckwebp-none",
       "rq" : 75
     },
+    "\/img\/Responsive page dog.gif" : {
+      "ft" : 4194304,
+      "iS" : 800433,
+      "oA" : 0,
+      "oAP" : "\/build\/img\/Responsive page dog.gif",
+      "oF" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "rq" : 75
+    },
+    "\/img\/Responsive page plants.gif" : {
+      "ft" : 4194304,
+      "iS" : 1253189,
+      "oA" : 0,
+      "oAP" : "\/build\/img\/Responsive page plants.gif",
+      "oF" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "rq" : 75
+    },
+    "\/img\/Responsive page weather.gif" : {
+      "ft" : 4194304,
+      "iS" : 412211,
+      "oA" : 0,
+      "oAP" : "\/build\/img\/Responsive page weather.gif",
+      "oF" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "rq" : 75
+    },
     "\/img\/shecodes-logo.png" : {
       "ft" : 32768,
       "iS" : 15204,
       "oA" : 0,
       "oAP" : "\/build\/img\/shecodes-logo.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/img\/SheCodesMaxLogo.png" : {
+      "ft" : 32768,
+      "iS" : 17161,
+      "oA" : 0,
+      "oAP" : "\/build\/img\/SheCodesMaxLogo.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -314,6 +337,18 @@
       "oA" : 0,
       "oAP" : "\/build\/shecodes.html",
       "oF" : 0
+    },
+    "\/styles\/i-styles.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 0,
+      "oAP" : "\/build\/styles\/i-styles-min.css",
+      "oF" : 0,
+      "pg" : 0
     },
     "\/styles\/styles.css" : {
       "aP" : 1,

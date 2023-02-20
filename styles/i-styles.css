@@ -1,0 +1,39 @@
+:root {
+  --fa-primary-color: #171539;
+  --fa-secondary-color: #c9974e;
+}
+
+.md-blue {
+  color: #171539;
+}
+.md-gold {
+  color: #c9974e;
+}
+.md-green {
+  color: #6a7b73;
+}
+.md-pink {
+  color: #bd7877;
+}
+.md-grey {
+  color: #171539;
+}
+.md-sans {
+  font-family: "hanken grotesk", sans-serif;
+}
+.md-serif {
+  font-family: "playfair display", serif;
+}
+.md-cursive {
+  font-family: "cookie", cursive;
+}
+.md-mono {
+  font-family: "inconsolata", monospace;
+}
+.md-shadow {
+  box-shadow: 0px 15px 43px 10px rgba(0, 0, 0, 0.2);
+}
+.md-border {
+  border: 3px solid rgba(23, 21, 57, 0.5);
+  border-radius: 20px;
+}
