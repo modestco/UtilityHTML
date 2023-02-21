@@ -1927,7 +1927,7 @@
     ],
     "npmAbbreviatedPath" : "",
     "npmCreatePackageLock" : 1,
-    "npmInstallOptionalDependencies" : 0,
+    "npmInstallOptionalDependencies" : 1,
     "npmSaveExactVersion" : 0,
     "npmTargetDependencyListType" : 1,
     "overrideExternalServerCSS" : 0,
